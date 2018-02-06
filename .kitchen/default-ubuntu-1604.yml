@@ -2,6 +2,6 @@
 hostname: 127.0.0.1
 port: '2201'
 username: vagrant
-ssh_key: "/Users/tech-a46/Desktop/cook-books/mongoCookbook/.kitchen/kitchen-vagrant/default-ubuntu-1604/.vagrant/machines/default/virtualbox/private_key"
-last_action: create
-last_error: Kitchen::ActionFailed
+ssh_key: "/Users/tech-a46/Desktop/cook-books/mongo/.kitchen/kitchen-vagrant/default-ubuntu-1604/.vagrant/machines/default/virtualbox/private_key"
+last_action: verify
+last_error: 
