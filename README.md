@@ -1,1 +1,4 @@
-# mongo-cookbook
+# lab-cookbook
+
+TODO: Enter the cookbook description here.
+

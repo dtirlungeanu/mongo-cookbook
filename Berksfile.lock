@@ -1,0 +1,7 @@
+DEPENDENCIES
+  lab-cookbook
+    path: .
+    metadata: true
+
+GRAPH
+  lab-cookbook (0.1.0)
