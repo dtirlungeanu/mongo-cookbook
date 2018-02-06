@@ -1,7 +1,7 @@
 DEPENDENCIES
-  lab-cookbook
+  node
     path: .
     metadata: true
 
 GRAPH
-  lab-cookbook (0.1.0)
+  node (0.1.0)
